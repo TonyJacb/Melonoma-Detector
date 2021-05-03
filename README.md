@@ -5,4 +5,4 @@ As part of my coursework, I developed a binary classification model that differe
 The dataset used is the [Kaggle Skin Cancer Dataset](https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign)
 
 ## Result
-![Confusion Matrix] (conf_matrix.png)
+![Confusion Matrix] (https://github.com/TonyJacb/Melonoma-Detector/blob/main/conf_matrix.png)
