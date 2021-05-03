@@ -18,5 +18,6 @@ To support the development of the product, a Fusion 360 Sketch was also made to 
 battery pack, <br>
 Raspberry Pi, <br>
 and the camera housing <br>
+<br>
 To view the sketch, visit [here](https://vitstudent1999.autodesk360.com/g/shares/SH919a0QTf3c32634dcf5523a9fcb74003ce) <br>
 ![Sketch](https://github.com/TonyJacb/Melonoma-Detector/blob/main/MedTech%20Project_snapshot.png)
